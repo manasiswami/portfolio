@@ -39,5 +39,5 @@ I’m an Information Technology student and aspiring Full Stack Developer with h
 Thank you for taking the time to explore my portfolio. I’m open to **internships, job, collaborations, and career opportunities** in full-stack development. Feel free to explore my projects, connect with me, or reach out with feedback and professional opportunities.
 
 - **GitHub:** [@manasiswami(https://github.com/manasiswami)]
-- **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/mansi-swami/)
+- **LinkedIn:** [LinkedIn profile(https://www.linkedin.com/in/mansi-swami/)]
 - **Email:** manasiswami27@gmail.com
