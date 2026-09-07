@@ -6,10 +6,6 @@ I’m an Information Technology student and aspiring **Full Stack Developer** wh
 
 [View My Portfolio](https://manasiswami.github.io/portfolio/)
 
-## 👩‍💻 About Me
-
-I’m an Information Technology student and aspiring Full Stack Developer with hands-on experience building responsive web applications and practical projects. I enjoy turning ideas into clean, user-friendly applications while continuously strengthening my skills in **full-stack development**.
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic and structured web development
